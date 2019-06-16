@@ -17,3 +17,9 @@ test.txt
 !/src
 /src/*
 !/src/cgtools
+
+!/src/dms/
+/src/dms/*
+!/src/dms/rt
+/src/dms/rt/*
+!/src/dms/rt/shapes
