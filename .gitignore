@@ -24,3 +24,4 @@ test.txt
 /src/dms/rt/*
 !/src/dms/rt/shapes
 !/src/dms/rt/lights
+!/src/dms/rt/materials
